@@ -24,7 +24,10 @@ WebPage::WebPage(WebPageManager *manager, QObject *parent) : QWebPage(parent) {
 
   setForwardUnsupportedContent(true);
   loadJavascript();
-  setUserStylesheet();
+
+  // We don't want to reset all fonts to Arial
+  // since we depending so much on FontAwesome.
+  // setUserStylesheet();
 
   this->setCustomNetworkAccessManager();
 
