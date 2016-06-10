@@ -39,7 +39,7 @@ If you don't have any luck there, please post to [Stack Overflow]. Please don't
 open a Github issue for a system-specific compiler issue.
 
 [Reporting Crashes]: https://github.com/thoughtbot/capybara-webkit/wiki/Reporting-Crashes
-[capybara-webkit wiki]: https://github.com/thoughtbot/capybara-webkit/wiki
+[wiki]: https://github.com/thoughtbot/capybara-webkit/wiki
 [Stack Overflow]: http://stackoverflow.com/questions/tagged/capybara-webkit
 
 CI
@@ -189,15 +189,6 @@ Thank you, [contributors]!
 
 [CONTRIBUTING]: CONTRIBUTING.md
 [contributors]: https://github.com/thoughtbot/capybara-webkit/graphs/contributors
-
-Need Help?
-----------
-
-We offer 1-on-1 coaching. We can help you install Qt, set up Capybara, get
-started writing integration tests, and track down slow or erratic tests. [Get in
-touch].
-
-[Get in touch]: http://coaching.thoughtbot.com/rails/?utm_source=github
 
 License
 -------
